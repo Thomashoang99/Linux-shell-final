@@ -1,0 +1,28 @@
+ls -l
+cd ./src
+ls
+head -n 12 execution-manager.hpp
+history
+ls | grep main
+ls
+history
+head -n 12 execution-manager.hpp
+history
+history 7
+pwd
+exit
+history
+ps -ael
+
+history
+cd ./src
+a-wrong-command
+exit
+cd ./src
+ls
+ls | grep .hpp
+grep return execution-manager.hpp | cat
+history 10
+exit
+history 6
+exit
